@@ -1,0 +1,362 @@
+[
+{
+    "model": "switchblade_users.role",
+    "pk": 1,
+    "fields": {
+        "description": "Aluno",
+        "active": true
+    }
+},
+{
+    "model": "switchblade_users.role",
+    "pk": 2,
+    "fields": {
+        "description": "Secretria",
+        "active": true
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 1,
+    "fields": {
+        "role": 1,
+        "resource": 1
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 3,
+    "fields": {
+        "role": 1,
+        "resource": 3
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 5,
+    "fields": {
+        "role": 1,
+        "resource": 10
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 6,
+    "fields": {
+        "role": 1,
+        "resource": 64
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 7,
+    "fields": {
+        "role": 1,
+        "resource": 8
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 8,
+    "fields": {
+        "role": 1,
+        "resource": 43
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 9,
+    "fields": {
+        "role": 1,
+        "resource": 44
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 10,
+    "fields": {
+        "role": 1,
+        "resource": 45
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 11,
+    "fields": {
+        "role": 1,
+        "resource": 46
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 12,
+    "fields": {
+        "role": 1,
+        "resource": 47
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 13,
+    "fields": {
+        "role": 1,
+        "resource": 48
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 14,
+    "fields": {
+        "role": 1,
+        "resource": 49
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 15,
+    "fields": {
+        "role": 1,
+        "resource": 50
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 16,
+    "fields": {
+        "role": 1,
+        "resource": 51
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 17,
+    "fields": {
+        "role": 1,
+        "resource": 52
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 18,
+    "fields": {
+        "role": 1,
+        "resource": 53
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 19,
+    "fields": {
+        "role": 1,
+        "resource": 54
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 20,
+    "fields": {
+        "role": 1,
+        "resource": 55
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 28,
+    "fields": {
+        "role": 2,
+        "resource": 1
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 29,
+    "fields": {
+        "role": 2,
+        "resource": 2
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 30,
+    "fields": {
+        "role": 2,
+        "resource": 71
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 31,
+    "fields": {
+        "role": 2,
+        "resource": 8
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 32,
+    "fields": {
+        "role": 2,
+        "resource": 72
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 33,
+    "fields": {
+        "role": 2,
+        "resource": 74
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 34,
+    "fields": {
+        "role": 2,
+        "resource": 75
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 35,
+    "fields": {
+        "role": 2,
+        "resource": 73
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 36,
+    "fields": {
+        "role": 2,
+        "resource": 77
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 41,
+    "fields": {
+        "role": 2,
+        "resource": 76
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 42,
+    "fields": {
+        "role": 1,
+        "resource": 65
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 43,
+    "fields": {
+        "role": 1,
+        "resource": 66
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 44,
+    "fields": {
+        "role": 1,
+        "resource": 67
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 45,
+    "fields": {
+        "role": 1,
+        "resource": 68
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 46,
+    "fields": {
+        "role": 1,
+        "resource": 69
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 47,
+    "fields": {
+        "role": 1,
+        "resource": 70
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 52,
+    "fields": {
+        "role": 2,
+        "resource": 65
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 53,
+    "fields": {
+        "role": 2,
+        "resource": 66
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 66,
+    "fields": {
+        "role": 1,
+        "resource": 134
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 68,
+    "fields": {
+        "role": 1,
+        "resource": 144
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 69,
+    "fields": {
+        "role": 1,
+        "resource": 2
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 70,
+    "fields": {
+        "role": 1,
+        "resource": 146
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 71,
+    "fields": {
+        "role": 2,
+        "resource": 145
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 72,
+    "fields": {
+        "role": 2,
+        "resource": 147
+    }
+},
+{
+    "model": "switchblade_users.rolepermission",
+    "pk": 73,
+    "fields": {
+        "role": 1,
+        "resource": 148
+    }
+}
+]
